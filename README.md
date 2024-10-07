@@ -2,4 +2,4 @@
 
 ## With Tutor: Umran Yaman
 
-### Tutoral questions Week 3: [Questionare](/Tutorial%20Questions%207-9-24.md)
+### Tutoral questions Week 3: [Questionare 7/10/24](/Tutorial%20Questions%207-9-24.md)
