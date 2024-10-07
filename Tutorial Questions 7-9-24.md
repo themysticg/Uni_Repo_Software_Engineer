@@ -43,3 +43,12 @@ Organizations can engage in business transactions online through a variety of di
 5. **Distributed Denial of Service (DDoS) Attacks:** Hackers overwhelm a website or online service with traffic, rendering it unusable and potentially causing significant business downtime.
 
 Organizations must invest in robust security measures, such as encryption, firewalls, secure payment systems, and regular security audits, to mitigate these risks.
+
+## 3. Discuss the use of specialised software for internet in terms of its value to business organisations. .
+
+Specialized software for internet use, like CRM systems or data analytics tools, adds significant value to businesses by improving efficiency, automating tasks, and providing insights for better decision-making. These tools help organizations streamline communication, enhance customer experiences, and stay competitive in a digital world.
+
+
+## 4. Why do you think Software for using Internet- such as e-mail and web browser are of great importance to business organisations?
+
+Software like email and web browsers are essential to business because they facilitate fast communication, collaboration, and access to vital information. They enable employees to work efficiently, connect with clients, and research markets, making them core components of everyday operations.
