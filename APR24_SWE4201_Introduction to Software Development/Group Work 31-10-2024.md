@@ -8,16 +8,24 @@
 
 ## Encapsulation
 
-Encapsulation in software development is a principle that bundles data (variables) and methods (functions) that operate on that data into a single unit, usually called an object. This approach hides the internal workings of an object from the outside, only allowing access to the data through specified methods. By controlling access like this, encapsulation helps prevent unintended interference, promotes modularity, and makes code easier to maintain and debug. Essentially, it creates a protective layer around data and functions to ensure they’re used correctly.
+Encapsulation is a fundamental concept in OOP that combines data (attributes) and methods that work with that data into a single unit known as a class. This protective layer around the data maintains its integrity and prevents unauthorized access.
+
+Consider a car. The car body houses the engine, transmission, and brakes. You can interact with the car using its controls (steering wheel, accelerator, and brake pedal), but you don’t need to understand how they function. This is similar to the way encapsulation works in programming. 
 
 ## Abstraction
 
-Abstraction is about simplifying complex systems by focusing on the essential features while hiding unnecessary details. In software, it means creating a clear interface that allows users to interact with a system without needing to understand its inner workings. For example, when using a function to send a message, you don't need to know the underlying code handling network connections – just the inputs and outputs. Abstraction helps in managing complexity, making code more readable and reducing the chances of errors by minimizing what developers need to keep in mind.
+Abstraction is one of the key concepts of object-oriented programming (OOP) languages. Its main goal is to handle complexity by hiding unnecessary details from the user. That enables the user to implement more complex logic on top of the provided abstraction without understanding or even thinking about all the hidden complexity.
+
+That’s a very generic concept that’s not limited to object-oriented programming. You can find it everywhere in the real world.
 
 ## Inheritance
 
-Inheritance is a concept in object-oriented programming that allows a class (known as a *child* or *subclass*) to inherit properties and behaviors (methods) from another class (known as a *parent* or *superclass*). This lets you create a new class based on an existing one, reusing code without rewriting it. For example, if you have a general `Vehicle` class, you can create a `Car` subclass that inherits features from `Vehicle` but also adds unique characteristics. Inheritance promotes code reuse, hierarchy organization, and can make complex systems easier to manage by grouping shared functionality.
+Inheritance is one of the core concepts of object-oriented programming (OOP) languages. It is a mechanism where you can to derive a class from another class for a hierarchy of classes that share a set of attributes and methods.
+
+You can use it to declare different kinds of exceptions, add custom logic to existing frameworks, and even map your domain model to a database.
 
 ## Polymorphism
 
-Polymorphism is the ability of different classes to be treated as instances of the same class through a shared interface, often allowing methods to have different behaviors based on the object calling them. In simpler terms, polymorphism lets you use the same function or method in different contexts with different types of objects. For example, if you have a method `makeSound()` in an `Animal` class, each subclass (`Dog`, `Cat`, `Bird`) can implement `makeSound()` differently to produce sounds specific to that animal. Polymorphism makes code more flexible and extensible, allowing you to build systems that can work with different types of objects seamlessly.
+Polymorphism is one of the core concepts of object-oriented programming (OOP) that describes situations in which something occurs in several different forms. In computer science, polymorphism describes the concept that you can access objects of different types through the same interface. Each type can provide its own independent implementation of this interface.
+
+You can perform a simple test to know whether an object is polymorphic. If the object successfully passes multiple is-a or instanceof tests, it’s polymorphic. As described in our post about inheritance, all Java classes extend the class Object. Due to this, all objects in Java are polymorphic because they pass at least two instanceof checks.
