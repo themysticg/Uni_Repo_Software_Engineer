@@ -1,7 +1,6 @@
 # Tutorial: HTTP/ Client-Server/ Cache
 
-## 1. Describe how a Web caching can reduce the delay in receiving a requested object. Will Web
-caching reduce the delay for all objects requested by a user or for only some objects? Why?
+## 1. Describe how a Web caching can reduce the delay in receiving a requested object. Will Web caching reduce the delay for all objects requested by a user or for only some objects? Why?
 
 ### Web Caching to Reduce Delay
 Web caching alleviates latency by locally storing copies of commonly used content as local caches or by network cache servers. Whenever a user requests an object, browser or intermediate cache checks whether the object is stored in the cache. In this case, a fast response is returned with the cached version without access to the original server, reducing network latency and server processing time.
