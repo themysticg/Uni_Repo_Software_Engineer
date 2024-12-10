@@ -5,7 +5,7 @@
 ### Tutoral questions Week 3: [Questionare 7/10/24](/APR24_SWE4202-Computing%20Infrastructure/Tutorial%20Questions%207-9-24/Tutorial%20Questions%207-9-24.md)
 ### Tutoral questions Week 5: [Questionare 11/11/24](/APR24_SWE4202-Computing%20Infrastructure/Tutorial%20Questions%2011-11-24/Tutorial%20Questions%2011-11-24.md)
 ### Tutoral questions Week 6: [Questionare 18/11/24](/APR24_SWE4202-Computing%20Infrastructure/Tutorial%20Questions%2018-11-24/Tutorial%20Questions%2018-11-24.md)
-
+### Tutoral questions Week 10: [Questionare 10/12/24](/AAPR24_SWE4202-Computing%20Infrastructure/Tutorial%20Questions%2010-12-24/Tutorial%20Questions%2010-12-24.md)
 
 # APR24 - SWE4201 - Introduction to Software Development
 ## With Tutor: Mohammad Shah
